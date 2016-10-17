@@ -1,5 +1,5 @@
 BlackJack
 =========
+This is the Black Jack card game. 
 
-
-1.Install Scons and Valgrind.
+Install Scons and Valgrind and execute.
